@@ -23,11 +23,18 @@ Este projeto implementa uma calculadora de lucro com registro de produtos, cálc
 ## 🗂 Estrutura do Projeto
 
 calculadora-lucro/
+
+
 │
+
 ├── app.py # Interface gráfica (Tkinter)
+
 ├── calculadora_lucro.py # Calculadora + salvamento no Excel
+
 ├── view.py # Leitura e exclusão direta de dados
+
 ├── planilha.xlsx # Gerada automaticamente
+
 └── README.md # Documentação
 
 ---
